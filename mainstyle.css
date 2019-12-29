@@ -1,7 +1,12 @@
 body {
-margin: 0;
-background-color: white;
-color: black; 
-font-family: Times, serif; /*Стиль для просто текста*/
-font-size: 20px;
+	margin: 0;
+	background-color: white;
+	color: black; 
+	font-family: Times, serif; /*Стиль для просто текста*/
+	font-size: 20px;
 } 
+
+div {
+	color:red;
+	font-size:28px;
+}	
